@@ -12,12 +12,14 @@ Passionate about building efficient software solutions, solving real-world probl
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 - 🎓 Aspiring **Software Engineer from India**
-- 📚 Currently learning **Machine Learning and Data Structures & Algorithms**
-- 💻 Passionate about **Software Development, Machine Learning, and Problem Solving**
-- 🚀 Continuously improving my skills through **DSA practice and real-world projects**
+- 🧠 Currently learning **Artificial Intelligence and Data Structures**
+- 💻 Interested in **Software Development, AI, and Problem Solving**
+- 🚀 Improving my skills in **DSA and real-world projects**
+- 📂 All projects available at  
+  **https://github.com/amolsingh05**
 
 ---
 
